@@ -6,7 +6,7 @@ The following is a set of guidelines for contributing to the INR Token project, 
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the INR Token Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [email@example.com].
+This project and everyone participating in it is governed by the INR Token Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [infoindiannationalrupee@gmail.com].
 
 ## How Can I Contribute?
 
